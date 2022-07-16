@@ -1,16 +1,12 @@
-# flutter_responsive
+# Flutter Reponsive Layout
 
-A new Flutter project.
+### Desktop View
+![image](https://user-images.githubusercontent.com/23384886/179345963-0a16d530-ae13-4a6b-99d5-f949c64ff0cc.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Tablet View
+![image](https://user-images.githubusercontent.com/23384886/179345975-01e8607f-3a35-4a8d-8dab-5aa9f6390d1e.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Mobile View
+![image](https://user-images.githubusercontent.com/23384886/179345991-05adcf04-2dad-4432-b525-cdc754f2198d.png)
