@@ -1,8 +1,7 @@
 # Flutter Reponsive Layout
 
 ### Desktop View
-![image](https://user-images.githubusercontent.com/23384886/179346013-d2d12f22-7f36-4880-b6d5-af1f013e9562.png)
-
+![image](https://user-images.githubusercontent.com/23384886/179346031-7eec184f-6a0a-4abf-82d3-30475918648c.png)
 
 ### Tablet View
 ![image](https://user-images.githubusercontent.com/23384886/179345975-01e8607f-3a35-4a8d-8dab-5aa9f6390d1e.png)
